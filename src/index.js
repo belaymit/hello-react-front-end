@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './redux/configureStore';
-import { fetchGreeting } from './redux/reducer/greetings';
+import { fetchGreeting } from './redux/greetingSlice/greetings';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
