@@ -15,8 +15,8 @@ function Greeting() {
 
   return (
     <>
-      <h1>Rails Back-end React Front-end App Greetings!</h1>
-      <p className=".App-link">{ content }</p>
+      <h1>Greetings Between React-front-end and Rails Back-end</h1>
+      <p className="App">{ content }</p>
     </>
   );
 }
