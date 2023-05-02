@@ -78,7 +78,11 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-
+Server Repo: https://github.com/belaymit/hello-rails-back-end/tree/hello-rails-back-end
+- clone this repo
+``` sh
+  git checkout hello-rails-back-end
+```
 
 
 ```sh
@@ -131,7 +135,7 @@ The sever Rails app at port localhost:3000 The react app ``localhost:3001`` or o
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add more than 50 greeting message**
+- [ ] **Add more greeting message**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
